@@ -1,0 +1,16 @@
+#test {
+ width:100px;
+}
+
+#small {
+ 
+ margin-left:1em;
+}
+#med {
+
+ margin-left:2em;
+}
+#large {
+ 
+ margin-left:3em;
+}
